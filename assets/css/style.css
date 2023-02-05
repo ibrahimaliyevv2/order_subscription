@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body .container-fluid {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-image: url(../img/iphone-wallpaper-whatspaper-14.jpeg);
+}
+
+body .container-fluid .row .col-md-12 .card {
+  border-radius: 12px;
+}
+
+body .container-fluid .row .col-md-12 .card img {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+body .container-fluid .row .col-md-12 .card a.btn-primary {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+body .container-fluid .row .col-md-12 .card a.btn-light {
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+
+body .container-fluid .row .col-md-12 .card .box-music {
+  padding: 10px;
+  border-radius: 12px;
+}
+
+body .container-fluid .row .col-md-12 .card .button-change a {
+  font-size: 20px;
+  margin-left: 50px;
+}
+/*# sourceMappingURL=style.css.map */
